@@ -1,0 +1,921 @@
+[
+    {
+        "question": "Can you tell me about Mr. Narendra Modi, the current Prime Minister of India?",
+        "urls": [
+            "https://en.wikipedia.org/wiki/Narendra_Modi",
+            "https://www.pmindia.gov.in/en/pms-profile/",
+            "https://www.britannica.com/biography/Narendra-Modi",
+            "https://www.biography.com/political-figures/narendra-modi"
+        ]
+    },
+    {
+        "question": "Can you tell me about Mr. Abraham Lincoln?",
+        "urls": [
+            "https://www.britannica.com/biography/Abraham-Lincoln",
+            "https://www.history.com/topics/us-presidents/abraham-lincoln",
+            "https://en.wikipedia.org/wiki/Abraham_Lincoln",
+            "https://www.history.com/news/10-things-you-may-not-know-about-abraham-lincoln"
+        ]
+    },
+    {
+        "question": "If I spend 10 hours a day sleeping, 2 eating and 5 studying, how much time do I have left for exploring my hobbies?",
+        "urls": [
+            "https://www.asundergrad.pitt.edu/study-lab/study-skills-tools-resources/time-management-calculator",
+            "https://uwex.wisconsin.edu/online-learning/time-management-calculator/",
+            "https://www.sleepfoundation.org/sleep-calculator",
+            "https://www.missouristate.edu/StudentSuccess/Aim/long-description-optimal-time-spent-hours-per-week-pie.htm",
+            "https://www.healthline.com/health/sleep/sleep-calculator"
+        ]
+    },
+    {
+        "question": "Two birds sit before a bird and two birds sit after a bird. What is the minimum and maximum number of birds that can be made to sit as per the given arrangement?",
+        "urls": [
+            "https://nestwatch.org/learn/general-bird-nest-info/nesting-cycle/",
+            "https://ca.audubon.org/news/5-steps-how-do-bird-sit",
+            "https://nature-mentor.com/bird-nesting-behavior/",
+            "https://www.allaboutbirds.org/news/how-long-do-birds-incubate-their-eggs-and-chicks-stay-in-the-nest/"
+        ]
+    },
+    {
+        "question": "There\u2019s a one-story house in which everything is yellow. Yellow walls, yellow doors, yellow furniture. What color are the stairs?",
+        "urls": [
+            "https://www.riddles.com/8846",
+            "https://news.amomama.com/264897-daily-riddle-theres-a-one-story-house-wh.html",
+            "https://riddlesans.com/theres-a-one-story-house-in-which-everything-is-yellow-yellow-walls-yellow-doors-yellow-furniture-what-color-are-the-stairs-949/",
+            "https://thinkmad.in/riddles/theres-a-one-story-house-in-which-everything-is-yellow-riddle-answer/"
+        ]
+    },
+    {
+        "question": "What can you break, even if you never pick it up or touch it?",
+        "urls": [
+            "https://www.sporcle.com/reference/clue/what-can-you-break-even-if-you-never-pick-it-up-or-touch-it",
+            "https://parade.com/947956/parade/riddles/",
+            "https://www.youtube.com/watch?v=iMDV8HjIhgs",
+            "https://www.cambridge-news.co.uk/whats-on/family-kids-news/riddles-quiz-brainteasers-questions-answers-18236637",
+            "https://quizlet.com/in/759772781/what-can-you-break-even-if-you-never-pick-it-up-or-touch-it-flash-cards/"
+        ]
+    },
+    {
+        "question": "What is the most fascinating fact that you know?",
+        "urls": [
+            "https://www.factretriever.com/interesting-facts",
+            "https://www.rd.com/list/interesting-facts/",
+            "https://www.sciencefocus.com/science/fun-facts",
+            "https://bestlifeonline.com/crazy-random-facts/"
+        ]
+    },
+    {
+        "question": "Which is your go-to song when you want to celebrate something?",
+        "urls": [
+            "https://www.joincake.com/blog/celebration-songs/",
+            "https://parade.com/946264/parade/happy-songs/",
+            "https://badsoundsmagazine.com/playlists/emotions/celebration-songs/",
+            "https://www.brides.com/celebration-songs-5089501"
+        ]
+    },
+    {
+        "question": "Imagine you're at an airport where you see an aeroplane. You want to measure its surface area. How would you do that?",
+        "urls": [
+            "https://aerotoolbox.com/intro-wing-design/",
+            "https://gisgeography.com/great-circle-geodesic-line-shortest-flight-path/",
+            "https://www.boldmethod.com/learn-to-fly/aerodynamics/boundary-layer/",
+            "https://www.jpl.nasa.gov/edu/learn/project/imagine-youre-an-astronaut/",
+            "https://thepointsguy.com/guide/the-art-behind-a-comfortable-landing-how-pilots-calculate-bringing-an-aircraft-to-the-ground/"
+        ]
+    },
+    {
+        "question": "Which color do you think is the most relevant to charity?",
+        "urls": [
+            "https://allies4good.org/color-psychology-for-nonprofits/",
+            "https://www.bonterratech.com/blog/color-psychology-color-of-charity",
+            "https://wiredimpact.com/blog/right-colors-nonprofit-brand/",
+            "https://www.classy.org/blog/the-psychology-of-color-design-for-nonprofits/"
+        ]
+    },
+    {
+        "question": "I started from point A to reach point B. From point A, I walked 15 meters North-east, then 20 meters East, then 90 meters North-west, followed by 70 meters South. Where am I now?",
+        "urls": [
+            "https://www.khanacademy.org/test-prep/mcat/physical-processes/speed-and-velocity/v/calculating-average-speed-and-velocity-edited",
+            "https://www.calculatorsoup.com/calculators/math/speed-distance-time-calculator.php",
+            "https://mindyourdecisions.com/blog/2011/02/22/one-mile-south-one-mile-east-one-mile-north-a-classic-puzzle/",
+            "https://www.khanacademy.org/science/mechanics-essentials/xafb2c8d81b6e70e3:how-to-analyze-car-crashes-using-skid-mark-analysis/xafb2c8d81b6e70e3:position-distance-and-displacement/v/distance-and-displacement"
+        ]
+    },
+    {
+        "question": "Have you watched the movie \"Titanic\"?",
+        "urls": [
+            "https://www.amazon.com/Titanic-Leonardo-DiCaprio/dp/B008PHN6F6",
+            "https://www.imdb.com/title/tt0120338/",
+            "https://www.justwatch.com/us/movie/titanic-1997",
+            "https://www.rogerebert.com/reviews/titanic-1997",
+            "https://www.vanityfair.com/hollywood/2023/06/watch-titanic-on-netflix-a-viewing-guide"
+        ]
+    },
+    {
+        "question": "What to do when milk goes bad?",
+        "urls": [
+            "https://www.bonappetit.com/story/sour-milk-tips",
+            "https://www.healthline.com/nutrition/spoiled-milk",
+            "https://www.wikihow.com/Tell-if-Milk-is-Bad",
+            "https://www.sixfiguresunder.com/almost-expired-milk/"
+        ]
+    },
+    {
+        "question": "Do you know about the brand American Tourister?",
+        "urls": [
+            "https://en.wikipedia.org/wiki/American_Tourister",
+            "https://www.pilotplans.com/blog/american-tourister-luggage-review",
+            "https://www.topconsumerreviews.com/best-luggage-brands/reviews/american-tourister.php",
+            "https://www.cleverjourney.com/american-tourister-luggage-review/"
+        ]
+    },
+    {
+        "question": "How would I go about finding a burried treasure?",
+        "urls": [
+            "https://www.treehugger.com/places-find-real-buried-treasure-4863997",
+            "https://www.digminecraft.com/getting_started/how_to_find_buried_treasure.php",
+            "https://beebom.com/how-find-buried-treasure-minecraft/",
+            "https://www.maketecheasier.com/find-buried-treasure-minecraft/"
+        ]
+    },
+    {
+        "question": "Can you recommend a book or movie that you enjoyed recently?",
+        "urls": [
+            "https://www.indeed.com/career-advice/interviewing/last-book-you-read-interview-question",
+            "https://www.nytimes.com/2021/10/19/magazine/how-to-recommend-a-book.html",
+            "https://www.nytimes.com/2024/02/22/books/review/new-books-recommendations.html",
+            "https://www.ielts-mentor.com/cue-card-sample/2119-ielts-cue-card-sample-353-describe-a-book-or-movie-that-had-a-major-influence-on-you"
+        ]
+    },
+    {
+        "question": "How would you handle a difficult personal situation or conflict?",
+        "urls": [
+            "https://www.indeed.com/career-advice/interviewing/handled-difficult-situation-interview-question",
+            "https://careersidekick.com/handle-conflict/",
+            "https://www.indeed.com/career-advice/interviewing/handle-conflict-with-coworkers-question",
+            "https://www.glassdoor.com/blog/guide/how-do-you-deal-with-conflict/"
+        ]
+    },
+    {
+        "question": "Can you explain a complex concept or idea in simple terms?",
+        "urls": [
+            "https://www.edapp.com/blog/what-is-a-complex-concept-and-how-do-you-teach-it/",
+            "https://www.linkedin.com/pulse/seven-simple-ways-explain-complex-ideas-joann-kozyrev",
+            "https://www.presentation-guru.com/the-best-way-to-explain-complex-concepts-part-1/",
+            "https://www.linkedin.com/advice/1/what-some-effective-ways-communicate-complex-ideas"
+        ]
+    },
+    {
+        "question": "What do you think of love?",
+        "urls": [
+            "https://www.mindbodygreen.com/articles/what-does-love-feel-like",
+            "https://psychcentral.com/relationships/the-psychology-of-love",
+            "https://www.psychologytoday.com/us/blog/couples-thrive/202309/true-signs-of-true-love",
+            "https://www.verywellmind.com/what-is-love-2795343"
+        ]
+    },
+    {
+        "question": "Do you like freebies?",
+        "urls": [
+            "https://hip2save.com/freebies/",
+            "https://www.retailmenot.com/blog/free-samples-no-surveys-required.html",
+            "https://www.frugalforless.com/best-freebie-sites/",
+            "https://www.dollarfinancials.com/best-freebie-websites/"
+        ]
+    },
+    {
+        "question": "Is working for free a burden to you?",
+        "urls": [
+            "https://bible.org/seriespage/16-freeloaders-and-christian-work-ethic-2-thessalonians-36-18",
+            "https://www.bible-bridge.com/pauls-income-four-reasons-why-paul-worked-day-job/",
+            "https://www.bibleref.com/1-Thessalonians/2/1-Thessalonians-2-9.html",
+            "https://www.biblegateway.com/verse/en/2%20Thessalonians%203%3A8"
+        ]
+    },
+    {
+        "question": "What do you think would be the impact of AI tools on humans?",
+        "urls": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7605294/",
+            "https://ourworldindata.org/ai-impact",
+            "https://www.weforum.org/agenda/2023/02/ai-lives-ipsos-survey-technology/",
+            "https://www.pewresearch.org/internet/2018/12/10/artificial-intelligence-and-the-future-of-humans/"
+        ]
+    },
+    {
+        "question": "Do you consider AI a threat to human civilization?",
+        "urls": [
+            "https://umdearborn.edu/news/ai-really-threat-human-civilization",
+            "https://www.scientificamerican.com/article/heres-why-ai-may-be-extremely-dangerous-whether-its-conscious-or-not/",
+            "https://www.sciencealert.com/here-s-why-ai-is-not-an-existential-threat-to-humanity",
+            "https://www.vox.com/future-perfect/2019/2/12/18202466/ai-artificial-intelligence-humanity-threat",
+            "https://www.nytimes.com/2023/06/10/technology/ai-humanity.html"
+        ]
+    },
+    {
+        "question": "What is your highest education level?",
+        "urls": [
+            "https://grammarhow.com/what-is-your-highest-level-of-education/",
+            "https://thebestschools.org/degrees/college-degree-levels/",
+            "https://salarship.com/article/highest-academic-level-job-application/",
+            "https://salarship.com/article/education-level-job-application/",
+            "https://bigfuture.collegeboard.org/plan-for-college/college-basics/college-classes/quick-guide-your-college-degree-options"
+        ]
+    },
+    {
+        "question": "What do you consider your education level to be?",
+        "urls": [
+            "https://salarship.com/article/education-level-job-application/",
+            "https://wetest.io/blog/understand-define-education-levels/",
+            "https://www.thebalancemoney.com/interview-questions-about-your-educational-background-4165557",
+            "https://www.indeed.com/career-advice/interviewing/interview-question-tell-me-about-your-educational-background"
+        ]
+    },
+    {
+        "question": "How do you feel about the weather today?",
+        "urls": [
+            "https://www.accuweather.com/en/us/national/current-weather-maps-realfeel",
+            "https://www.wunderground.com/maps/temperature/feels-like",
+            "https://weather.com/",
+            "https://fullerlifefamilytherapy.org/whats-the-weather-like-inside-you-mindfulness-for-kids-and-adults-alike/"
+        ]
+    },
+    {
+        "question": "What comes next in the sequence : A, B, C, D ?",
+        "urls": [
+            "https://www.mathway.com/Calculator/sequence-calculator",
+            "https://alteredqualia.com/visualization/hn/sequence/",
+            "https://brilliant.org/wiki/pattern-recognition-visual-easy-2/",
+            "https://www.mathsisfun.com/algebra/sequences-series.html"
+        ]
+    },
+    {
+        "question": "Pointing to a photograph of a boy Suresh said, \"He is the son of the only son of my mother.\" How is Suresh related to that boy?",
+        "urls": [
+            "https://byjus.com/question-answer/pointing-to-a-photograph-of-a-boy-suresh-said-he-is-the-son-of-the/",
+            "https://testbook.com/question-answer/pointing-to-a-photograph-of-a-boy-suresh-said-qu--60587d609bfcc684e88aa220",
+            "https://www.indiabix.com/verbal-reasoning/blood-relation-test/",
+            "https://www.indiabix.com/verbal-reasoning/blood-relation-test/006001"
+        ]
+    },
+    {
+        "question": "If A + B means A is the mother of B; A - B means A is the brother B; A % B means A is the father of B and A x B means A is the sister of B, which of the following shows that P is the maternal uncle of Q?",
+        "urls": [
+            "https://www.toppr.com/ask/question/ifa-b-means-a-is-the-mother-of-ba-b-means-a-is/",
+            "https://byjus.com/question-answer/q45-if-a-b-means-a-is-the-mother-of-b-a-b-means-a/",
+            "https://www.chegg.com/homework-help/questions-and-answers/q5-b-means-mother-b-b-means-brother-b-b-means-father-b-x-b-means-sister-b-following-shows--q84038364",
+            "https://brainly.com/question/39239159"
+        ]
+    },
+    {
+        "question": "Why do you think black is associated with evil?",
+        "urls": [
+            "https://www.verywellmind.com/the-color-psychology-of-black-2795814",
+            "https://www.yourtango.com/self/color-black-spiritual-meaning-symbolism",
+            "https://www.scientificamerican.com/article/the-bad-is-black-effect/",
+            "https://edition.cnn.com/2017/09/01/health/colorscope-black-fear-of-darkness/index.html",
+            "https://www.discovermagazine.com/planet-earth/why-do-black-cats-have-a-reputation-for-evil"
+        ]
+    },
+    {
+        "question": "Are you familiar with the concept of Yin and Yang?",
+        "urls": [
+            "https://www.mindbodygreen.com/articles/yin-and-yang-meaning",
+            "https://en.wikipedia.org/wiki/Yin_and_yang",
+            "https://www.thoughtco.com/yin-and-yang-629214",
+            "https://www.britannica.com/topic/yinyang"
+        ]
+    },
+    {
+        "question": "What Would You Rather Throw Away: Love Or Money?",
+        "urls": [
+            "https://www.reddit.com/r/RandomThoughts/comments/1b0d8i7/what_would_you_rather_throw_away_love_or_money/",
+            "https://www.betterhelp.com/advice/love/love-or-money-whats-more-important-to-you-and-why/",
+            "https://www.reddit.com/r/WouldYouRather/comments/jqkx7l/what_would_you_rather_throw_away_love_or_money/",
+            "https://www.reddit.com/r/WouldYouRather/comments/mzn5ei/what_would_you_rather_throw_away_love_or_money/"
+        ]
+    },
+    {
+        "question": "What might be the strangest thing in a household refrigerator?",
+        "urls": [
+            "https://www.boredpanda.com/chaotic-weird-refrigerators-fridge-detective/",
+            "https://www.goodhousekeeping.com/home/tips/a18959/weird-things-fridge/",
+            "https://www.apartmenttherapy.com/10-weird-items-you-should-put-in-your-fridge-224087",
+            "https://www.seniorforums.com/threads/what-is-the-weirdest-thing-you-found-in-your-fridge.56397/",
+            "https://www.onegoodthingbyjillee.com/8-unusual-things-you-should-refrigerate/"
+        ]
+    },
+    {
+        "question": "What is a quick way to get strong according to you?",
+        "urls": [
+            "https://danteredgravestrength.com/ways-to-get-stronger/",
+            "https://www.strongerbyscience.com/complete-strength-training-guide/",
+            "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/strength-training/art-20046670",
+            "https://www.healthline.com/health/fitness/how-to-build-strength-guide"
+        ]
+    },
+    {
+        "question": "Have you ever played any games?",
+        "urls": [
+            "https://teambuilding.com/blog/have-you-ever-questions",
+            "https://psycatgames.com/magazine/party-games/have-you-ever/",
+            "https://thepleasantconversation.com/have-you-ever-questions/",
+            "https://www.techy.how/tutorials/see-all-roblox-games-you-played"
+        ]
+    },
+    {
+        "question": "What kind of songs do you like?",
+        "urls": [
+            "https://everyday-courtesy.com/answer-what-kind-of-music-do-you-like/",
+            "https://www.chosic.com/music-genre-finder/",
+            "https://www.chosic.com/music-taste-checker/",
+            "https://www.proprofs.com/quiz-school/story.php?title=what-is-your-music-style",
+            "https://www.chosic.com/playlist-generator/"
+        ]
+    },
+    {
+        "question": "Do you know about Taylor Swift?",
+        "urls": [
+            "https://play.howstuffworks.com/quiz/taylor-swift-quiz",
+            "https://www.buzzfeed.com/rando10/how-well-do-you-know-taylor-swift-a0jmyr77ze",
+            "https://www.thefactsite.com/taylor-swift-facts/",
+            "https://www.biography.com/musicians/taylor-swift"
+        ]
+    },
+    {
+        "question": "What do you understand by the term, \"copyright\"?",
+        "urls": [
+            "https://www.investopedia.com/terms/c/copyright.asp",
+            "https://www.copyright.gov/what-is-copyright/",
+            "https://www.forbes.com/advisor/business/what-is-copyright/",
+            "https://www.uspto.gov/ip-policy/copyright-policy/copyright-basics",
+            "https://www.copyright.gov/help/faq/faq-general.html"
+        ]
+    },
+    {
+        "question": "How many different kinds of mobile brands are you aware of?",
+        "urls": [
+            "https://www.gsmarena.com/makers.php3",
+            "https://m.gsmarena.com/makers.php3",
+            "https://www.forbes.com/sites/theyec/2024/02/14/how-brands-are-making-the-most-of-mobile-marketing/",
+            "https://robots.net/tech/how-many-smartphone-brands-are-there/"
+        ]
+    },
+    {
+        "question": "What do you think how much time will it take to develop Strong AI?",
+        "urls": [
+            "https://ourworldindata.org/ai-timelines",
+            "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/05/the-future-of-ai-5-things-to-expect-in-the-next-10-years/",
+            "https://www.sciencealert.com/experts-think-this-is-how-long-we-have-before-ai-takes-all-of-our-jobs",
+            "https://seas.harvard.edu/news/2021/10/present-and-future-ai"
+        ]
+    },
+    {
+        "question": "Do ghosts exist?",
+        "urls": [
+            "https://www.livescience.com/26697-are-ghosts-real.html",
+            "https://www.snexplores.org/article/science-ghosts",
+            "https://theconversation.com/are-ghosts-real-a-social-psychologist-examines-the-evidence-210048",
+            "https://www.scientificamerican.com/article/6-possible-scientific-reasons-for-ghosts/",
+            "https://www.today.com/life/holidays/are-ghosts-real-rcna105804"
+        ]
+    },
+    {
+        "question": "What do paranormal experts do?",
+        "urls": [
+            "https://www.mentalfloss.com/article/651591/paranormal-investigator-job-secrets",
+            "https://www.indeed.com/career-advice/finding-a-job/careers-in-the-paranormal",
+            "https://www.nytimes.com/2020/10/26/books/review/amy-bruni-life-with-the-afterlife-13-truths-i-learned-about-ghosts.html",
+            "https://www.wikihow.com/Become-a-Paranormal-Investigator"
+        ]
+    },
+    {
+        "question": "If two men and five women can do a work in 20 days. How many men and women would do the same work in 15 days?",
+        "urls": [
+            "https://testbook.com/question-answer/five-men-can-complete-a-work-in-20-days-ten-women--61cac1bc6ad5f4b20ab32662",
+            "https://math.stackexchange.com/questions/2566190/time-and-work-men-and-women-working",
+            "https://math.stackexchange.com/questions/2328896/21-women-can-complete-the-work-in-20-days-by-working-10-hours-a-day-how-long-wi",
+            "https://www.toppr.com/ask/question/2-men-and-5-women-can-do-a-piece-of-work-in-4-days-while/"
+        ]
+    },
+    {
+        "question": "How do I know which direction am I facing currently without the compass?",
+        "urls": [
+            "https://www.wikihow.com/Find-Direction-Without-a-Compass",
+            "https://hikinghorizon.com/how-to-find-direction-without-a-compass/",
+            "https://www.wikihow.com/Determine-Directions-to-North,-South,-East,-and-West",
+            "https://www.almanac.com/find-your-way-without-compass"
+        ]
+    },
+    {
+        "question": "Are sparrows an endangered species?",
+        "urls": [
+            "https://blog.nature.org/2019/03/25/where-have-all-the-house-sparrows-gone/",
+            "https://abcbirds.org/program/scorecard/endangered-birds",
+            "https://en.wikipedia.org/wiki/House_sparrow",
+            "https://chipperbirds.com/are-sparrows-endangered/",
+            "https://www.newstatesman.com/spotlight/sustainability/biodiversity-nature/2021/12/where-have-all-the-sparrows-gone"
+        ]
+    },
+    {
+        "question": "Are Royal Bengal Tigers only found in Bengal?",
+        "urls": [
+            "https://en.wikipedia.org/wiki/Bengal_tiger",
+            "https://animalcorner.org/animals/bengal-tigers/",
+            "https://www.wwfindia.org/about_wwf/priority_species/bengal_tiger/faq/",
+            "https://www.nationalgeographic.com/animals/mammals/facts/bengal-tiger"
+        ]
+    },
+    {
+        "question": "Do you know about IMDB?",
+        "urls": [
+            "https://www.imdb.com/title/tt1341188/",
+            "https://clark.com/streaming-tv/imdb-tv-review-free-streaming/",
+            "https://www.popsugar.com/entertainment/what-is-imdb-tv-is-it-free-47288200",
+            "https://www.imdb.com/title/tt6428102/",
+            "https://www.dailydot.com/upstream/what-is-imdb-tv-movies-shows/"
+        ]
+    },
+    {
+        "question": "What is the capital of Germany?",
+        "urls": [
+            "https://www.britannica.com/place/Berlin",
+            "https://en.wikipedia.org/wiki/Capital_of_Germany",
+            "https://en.wikipedia.org/wiki/Berlin",
+            "https://www.britannica.com/summary/Berlin"
+        ]
+    },
+    {
+        "question": "Do you know happened why World War I happened?",
+        "urls": [
+            "https://www.history.com/topics/world-war-i/world-war-i-history",
+            "https://world101.cfr.org/contemporary-history/world-war/why-did-world-war-i-happen",
+            "https://www.mentalfloss.com/article/57319/14-reasons-world-war-i-happened-and-four-things-could-have-stopped-it",
+            "https://www.britannica.com/event/World-War-I"
+        ]
+    },
+    {
+        "question": "What do you know about the Nazis?",
+        "urls": [
+            "https://www.history.com/topics/world-war-ii/nazi-party",
+            "https://www.britannica.com/event/Nazism",
+            "https://encyclopedia.ushmm.org/content/en/article/introduction-to-the-holocaust",
+            "https://www.britannica.com/topic/The-Holocaust-Facts-and-Figures",
+            "https://www.britannica.com/topic/Nazi-Party"
+        ]
+    },
+    {
+        "question": "How many countries are there in the world?",
+        "urls": [
+            "https://www.worldometers.info/geography/how-many-countries-are-there-in-the-world/",
+            "https://www.worldatlas.com/geography/how-many-countries-are-there-in-the-world.html",
+            "https://www.thoughtco.com/number-of-countries-in-the-world-1433445",
+            "https://www.britannica.com/story/how-many-countries-are-there-in-the-world"
+        ]
+    },
+    {
+        "question": "Do you know about the Bermuda Triangle?",
+        "urls": [
+            "https://www.britannica.com/story/what-is-known-and-not-known-about-the-bermuda-triangle",
+            "https://www.britannica.com/place/Bermuda-Triangle",
+            "https://www.discovermagazine.com/planet-earth/the-bermuda-triangle-what-science-can-tell-us-about-the-mysterious-ocean",
+            "https://www.livescience.com/23435-bermuda-triangle.html",
+            "https://www.history.com/topics/folklore/bermuda-triangle"
+        ]
+    },
+    {
+        "question": "Do you know the meaning of ivy?",
+        "urls": [
+            "https://www.petalrepublic.com/ivy-flower/",
+            "https://symbolsage.com/ivy-symbolism-and-meaning/",
+            "https://shunspirit.com/article/ivy-symbolic-meaning",
+            "https://interestingliterature.com/2021/05/ivy-symbolism-in-literature-religion-mythology-analysis-meaning/",
+            "https://www.merriam-webster.com/dictionary/ivy"
+        ]
+    },
+    {
+        "question": "Do you know some of the taboo topics",
+        "urls": [
+            "https://www.talkabouttalk.com/81-talking-taboo-topics/",
+            "https://www.psychologytoday.com/us/blog/why-bad-looks-good/202104/the-social-impact-discussing-taboo-topics",
+            "https://www.measuringknowhow.com/breaking-the-silence-discussing-things-that-are-taboo-to-talk-about/",
+            "https://www.psychologytoday.com/us/blog/rediscovering-love/202011/taboo-topics"
+        ]
+    },
+    {
+        "question": "How to find a solution to a problem when you're stuck on that problem for a long time?",
+        "urls": [
+            "https://www.codecademy.com/resources/blog/what-to-do-when-youre-stuck/",
+            "https://dev.to/victorandcode/what-to-do-when-you-re-stuck-with-a-problem-4bjb",
+            "https://personaltao.com/midlife-crisis/stuck-in-a-problem/",
+            "https://www.freecodecamp.org/news/how-to-get-unstuck/"
+        ]
+    },
+    {
+        "question": "What is the currency of Japan?",
+        "urls": [
+            "https://en.wikipedia.org/wiki/Japanese_yen",
+            "https://www.xe.com/currencyconverter/convert/?From=USD&To=JPY",
+            "https://wise.com/gb/travel-money/japanese-currency",
+            "https://en.japantravel.com/guide/money-in-japan/22045"
+        ]
+    },
+    {
+        "question": "In many colleges, there is a criteria that the students must have atleast 75% attendance in all the subjects. What are your thoughts on this?",
+        "urls": [
+            "https://blog.prepscholar.com/sat-scores-for-colleges",
+            "https://advising.stanford.edu/current-students/student-athletes/ncaa-eligibility",
+            "https://hechingerreport.org/facts-about-race-and-college-admission/",
+            "https://blog.prepscholar.com/what-do-colleges-look-for",
+            "https://collegedunia.com/exams/jee-main/eligibility"
+        ]
+    },
+    {
+        "question": "Why do people hesitate in saying sorry first?",
+        "urls": [
+            "https://www.verywellmind.com/the-importance-of-apologizing-3144986",
+            "https://www.learning-mind.com/saying-sorry-too-much/",
+            "https://calmerry.com/blog/emotions/the-power-of-apology-why-and-how-to-say-sorry/",
+            "https://tinybuddha.com/blog/power-apologizing-saying-sorry-important/"
+        ]
+    },
+    {
+        "question": "Is apologizing really a sign of weakness?",
+        "urls": [
+            "https://www.psychologytoday.com/us/blog/make-it-right/202005/the-top-15-myths-about-apologies",
+            "https://www.cnbc.com/2019/04/16/saying-im-sorry-can-make-people-think-poorly-of-you-research-heres-what-successful-people-do-instead.html",
+            "https://www.forbes.com/sites/stephaniesarkis/2019/09/29/apologizing-is-a-strength-not-a-weakness/"
+        ]
+    },
+    {
+        "question": "How many songs do you know?",
+        "urls": [
+            "https://www.buzzfeed.com/aliaakroush/taylor-swift-song-checklist",
+            "https://www.sporcle.com/games/shannonhall617/how-many-taylor-swift-songs-do-you-know",
+            "https://www.quotev.com/quiz/13039437/How-many-songs-do-you-know",
+            "https://www.youtube.com/watch?v=hvpZlpsU564"
+        ]
+    },
+    {
+        "question": "What's your favorite movie?",
+        "urls": [
+            "https://brilliantio.com/what-is-your-favorite-movie/",
+            "https://www.quizexpo.com/what-is-my-favorite-movie-quiz/",
+            "https://www.timeout.com/film/best-movies-of-all-time",
+            "https://editorial.rottentomatoes.com/guide/popular-movies/"
+        ]
+    },
+    {
+        "question": "Is studying medicine expensive?",
+        "urls": [
+            "https://www.shemmassianconsulting.com/blog/medical-school-tuition",
+            "https://students-residents.aamc.org/premed-navigator/how-much-does-it-cost-attend-medical-school-here-s-breakdown",
+            "https://themdjourney.com/true-cost-of-medical-schools-in-usa-complete-guide/",
+            "https://www.forbes.com/advisor/education/healthcare/cost-of-medical-school/"
+        ]
+    },
+    {
+        "question": "Suppose you build a mail application and it has two main bugs. The first one is that the app takes a lot of time to load while the other bug is that whenever you send an email, it gets delivered to the wrong address. You can fix one bug at a time. Which one will you fix first and why?",
+        "urls": [
+            "https://sqa.stackexchange.com/questions/31289/how-to-answer-interview-question-you-find-a-major-bug-but-no-developers-are-pr",
+            "https://www.softwaretestingclass.com/what-should-be-done-after-a-bug-is-found/",
+            "https://www.lambdatest.com/learning-hub/bug-life-cycle",
+            "https://stackoverflow.com/questions/5647487/how-hard-is-it-to-build-an-email-client-python"
+        ]
+    },
+    {
+        "question": "Do you know about Sundar Pichai?",
+        "urls": [
+            "https://en.wikipedia.org/wiki/Sundar_Pichai",
+            "https://www.britannica.com/biography/Sundar-Pichai",
+            "https://www.bbc.com/news/technology-50656803",
+            "https://www.pcmag.com/news/15-things-to-know-about-google-ceo-sundar-pichai"
+        ]
+    },
+    {
+        "question": "Is there a difference between blanket and quilt?",
+        "urls": [
+            "https://silverbobbin.com/quilt-vs-blanket/",
+            "https://www.miraclebrand.co/blogs/journal/quilt-vs-blanket",
+            "https://sewingwithease.com/quilting/what-is-the-difference-quilt-vs-blanket/",
+            "https://storables.com/articles/what-is-the-difference-between-a-quilt-and-a-blanket/"
+        ]
+    },
+    {
+        "question": "Is there any profession in which women are not there?",
+        "urls": [
+            "https://moneywise.com/employment/jobs-with-fewest-women-workers",
+            "https://www.marketwatch.com/story/6-top-jobs-no-woman-has-ever-had-2013-10-09/",
+            "https://smartasset.com/data-studies/pay-gap-2021",
+            "https://www.psychologytoday.com/us/blog/the-human-beast/202001/why-women-and-men-still-take-different-jobs",
+            "https://www.axios.com/2024/02/15/chart-the-most-gendered-occupations"
+        ]
+    },
+    {
+        "question": "What do you understand by the term, \"feminism\"?",
+        "urls": [
+            "https://www.britannica.com/topic/feminism",
+            "https://en.wikipedia.org/wiki/Feminism",
+            "https://www.merriam-webster.com/dictionary/feminism",
+            "https://www.thoughtco.com/what-is-feminism-3528958"
+        ]
+    },
+    {
+        "question": "Where is Eiffel Tower located?",
+        "urls": [
+            "https://en.wikipedia.org/wiki/Eiffel_Tower",
+            "https://www.britannica.com/topic/Eiffel-Tower-Paris-France",
+            "https://www.toureiffel.paris/en/the-monument",
+            "https://www.britannica.com/question/Where-is-the-Eiffel-Tower-located-in-Paris"
+        ]
+    },
+    {
+        "question": "Which is better? HP or Dell?",
+        "urls": [
+            "https://www.usnews.com/360-reviews/technology/laptops/dell-vs-hp",
+            "https://www.digitaltrends.com/computing/dell-vs-hp/",
+            "https://mashable.com/article/dell-vs-hp",
+            "https://www.toptenreviews.com/dell-vs-hp-which-makes-better-computers"
+        ]
+    },
+    {
+        "question": "What is the difference between a LCD and a LED?",
+        "urls": [
+            "https://www.digitaltrends.com/home-theater/led-vs-lcd-tvs/",
+            "https://electronics.howstuffworks.com/difference-between-lcd-and-led.htm",
+            "https://www.bestbuy.com/discover-learn/choosing-between-led-vs-lcd-screens/pcmcat1705512597163",
+            "https://www.spiceworks.com/tech/hardware/articles/lcd-vs-led/",
+            "https://www.cdw.com/content/cdw/en/articles/hardware/led-vs-lcd-computer-monitors.html"
+        ]
+    },
+    {
+        "question": "What will happen if you don't sleep for a week?",
+        "urls": [
+            "https://www.healthline.com/health/sleep-deprivation/sleep-deprivation-stages",
+            "https://www.medicalnewstoday.com/articles/what-happens-if-you-dont-sleep",
+            "https://www.healthline.com/health/healthy-sleep/how-long-can-you-go-without-sleep",
+            "https://health.clevelandclinic.org/how-long-can-you-go-without-sleep"
+        ]
+    },
+    {
+        "question": "How many directions are there?",
+        "urls": [
+            "https://en.wikipedia.org/wiki/Cardinal_direction",
+            "https://www.geographyrealm.com/cardinal-directions-ordinal-directions/",
+            "https://www.ncesc.com/geographic-faq/how-many-directions-are-there-on-earth/",
+            "https://en.wikipedia.org/wiki/Points_of_the_compass"
+        ]
+    },
+    {
+        "question": "What do you know about non-banking financial organizations?",
+        "urls": [
+            "https://www.investopedia.com/terms/n/nbfcs.asp",
+            "https://www.sofi.com/learn/content/non-bank-financial-institutions/",
+            "https://www.silamoney.com/ach/understanding-non-bank-financial-institutions-what-are-they-how-do-they-work",
+            "https://en.wikipedia.org/wiki/Non-bank_financial_institution"
+        ]
+    },
+    {
+        "question": "How to get rid of pollen allergy?",
+        "urls": [
+            "https://www.medicalnewstoday.com/articles/how-to-get-rid-of-allergies",
+            "https://my.clevelandclinic.org/health/diseases/pollen-allergy",
+            "https://www.healthline.com/health/allergies/how-to-get-rid-of-allergies",
+            "https://www.healthline.com/health/allergies/pollen"
+        ]
+    },
+    {
+        "question": "Is it possible to prepare for an exam in one day?",
+        "urls": [
+            "https://www.wikihow.com/Study-in-One-Day",
+            "https://owlcation.com/academia/How-to-Study-for-an-Exam-in-One-Day",
+            "https://www.oxford-royale.com/articles/study-hour-day-week-month/",
+            "https://www.savethestudent.org/extra-guides/how-to-revise-in-one-day.html"
+        ]
+    },
+    {
+        "question": "The government of an island nation is in the process of deciding how to spend its limited income. It has $7 million left in its budget and eight programs to choose among. There is no provision in the constitution to have a surplus, and each program has requested the minimum amount they need; in other words, no program may be partially funded. The programs and their funding requests are: * Hurricane preparedness: $2.5 million * Harbor improvements: $1 million * School music program: $0.5 million * Senate office building remodeling: $1.5 million * Agricultural subsidy program: $2 million * National radio: $0.5 million * Small business loan program: $3 million * International airport: $4 million Senators from urban areas are very concerned about assuring that there will be funding for a new international airport. Senators from rural areas refuse to fund anything until money for agricultural subsidies is appropriated. If the legislature funds these two programs, on which of the following could they spend the rest of the money?",
+        "urls": [
+            "https://en.wikipedia.org/wiki/Iceland",
+            "https://www.coursehero.com/file/p1kfmpqkj/Calvin-is-directly-behind-the-ball-carrier-Jenkins-and-Burton-are-side-by-side/"
+        ]
+    },
+    {
+        "question": "Eileen is planning a special birthday dinner for her husband's 35th birthday. She wants the evening to be memorable, but her husband is a simple man who would rather be in jeans at a baseball game than in a suit at a fancy restaurant. Which restaurant below should Eileen choose? 1. Alfredo's offers fine Italian cuisine and an elegant Tuscan decor. Patrons will feel as though they've spent the evening in a luxurious Italian villa. 2. Pancho's Mexican Buffet is an all-you-can-eat family style smorgasbord with the best tacos in town. 3. The Parisian Bistro is a four-star French restaurant where guests are treated like royalty. Chef Dilbert Olay is famous for his beef bourguignon. 4. Marty's serves delicious, hearty meals in a charming setting reminiscent of a baseball clubhouse in honor of the owner,Marty Lester, a former major league baseball all-star.",
+        "urls": [
+            "https://www.toppr.com/ask/question/the-given-question-presents-a-situation-and-asks-you-to-make-a-judgment-regarding-that-2/",
+            "https://www.indiabix.com/logical-reasoning/making-judgments/",
+            "https://brainly.com/question/41487193",
+            "https://www.examveda.com/eileen-is-planning-a-special-birthday-dinner-for-her-husbands-35th-birthday-she-wants-the-evening-to-be-memorable-but-her-husband-is-a-simple-man-who-would-rather-be-19854/"
+        ]
+    },
+    {
+        "question": "The school principal has received complaints from parents about bullying in the school yard during recess. He wants to investigate and end this situation as soon as possible, so he has asked the recess aides to watch closely. Which situation should the recess aides report to the principal? 1. A girl is sitting glumly on a bench reading a book and not interacting with her peers. 2. Four girls are surrounding another girl and seem to have possession of her backpack. 3. Two boys are playing a one-on-one game of basketball and are arguing over the last basket scored. 4. Three boys are huddled over a handheld video game, which isn't supposed to be on school grounds.",
+        "urls": [
+            "https://www.toppr.com/ask/question/the-school-principal-has-received-complaints-from-parents-about-bullying-in-the-school-yard-during/",
+            "https://www.examveda.com/the-school-principal-has-received-complaints-from-parents-about-bullying-in-the-school-yard-during-recess-he-wants-to-investigate-and-end-this-situation-as-soon-as-possible-so-he-19856/",
+            "https://testbook.com/question-answer/the-school-principal-has-received-complaints-from--63a2f2e11444fc5687d5c3b1",
+            "https://www.toppr.com/ask/en-in/question/the-school-principal-has-received-complaints-from-parents-about-bullying-in-the-school-yard-during/"
+        ]
+    },
+    {
+        "question": "Should India encourage exports, when most things are insufficient for internal use itself?",
+        "urls": [
+            "https://www.toppr.com/ask/question/statement-should-india-encourage-exports-when-most-things-are-insufficient-for-internal-use-itselfarguments-i/",
+            "https://testbook.com/question-answer/the-question-below-is-followed-by-two-arguments-nu--5fc0b17efd85efd4f3d96589",
+            "https://www.indiabix.com/logical-reasoning/statement-and-argument/discussion-1054",
+            "https://testbook.com/question-answer/directions-the-question-consists-of-stateme--5cc43c0dfdb8bb34e5c5f7db"
+        ]
+    },
+    {
+        "question": "Should all the drugs patented and manufactured in Western countries be first tried out on sample basis before giving licence for sale to general public in India?",
+        "urls": [
+            "https://www.toppr.com/ask/question/statement-should-all-the-drugs-patented-and-manufactures-in-western-countries-be-first-tried/",
+            "https://www.indiabix.com/logical-reasoning/statement-and-argument/discussion-1067",
+            "https://lawecommons.luc.edu/cgi/viewcontent.cgi?article=1535&context=facpubs",
+            "https://www.news-medical.net/health/Drug-Patents-and-Generics.aspx"
+        ]
+    },
+    {
+        "question": "There are 5 people sitting in a circle facing towards the center. A is sitting to the right of D. B and D must not sit together. C is between B and D. Where is E sitting?",
+        "urls": [
+            "https://www.toppr.com/ask/question/a-b-c-d-e-f-g-and-h-are-sitting-around-a-circle-facing/",
+            "https://www.geeksforgeeks.org/seating-arrangement-aptitude/",
+            "https://math.stackexchange.com/questions/965852/round-table-seating-probability",
+            "https://www.toppr.com/ask/question/eight-friends-a-b-c-d-e-f-g-and-h-are-sitting-in-a/"
+        ]
+    },
+    {
+        "question": "Should India make efforts to harness solar energy to fulfil its energy requirements?",
+        "urls": [
+            "https://www.toppr.com/ask/question/statement-should-india-make-efforts-to-harness-solar-energy-to-fulfill-its-energy-requirements/",
+            "https://link.springer.com/article/10.1007/s40030-022-00664-y",
+            "https://indianexpress.com/article/explained/experts-explain-what-it-will-take-to-fulfill-indias-solar-power-dream-8078876/",
+            "https://www.teriin.org/article/solar-energy-indias-energy-security-reducing-variability-and-achieving-stability"
+        ]
+    },
+    {
+        "question": "A bag contains 5 red balls, 3 blue balls, and 2 green balls. If one ball is drawn randomly, what is the probability of selecting a blue ball?",
+        "urls": [
+            "https://www.algebra.com/algebra/homework/Probability-and-statistics/Probability-and-statistics.faq.question.351381.html",
+            "https://www.chegg.com/homework-help/questions-and-answers/q16-bag-contains-5-red-balls-3-blue-balls-2-green-balls-one-ball-drawn-random-probability--q111081170",
+            "https://math.stackexchange.com/questions/4240903/a-box-contains-5-red-balls-3-orange-balls-and-2-green-balls-two-balls-are-sele",
+            "https://math.stackexchange.com/questions/3902479/a-bag-contains-7-blue-balls-and-3-green-balls-what-is-the-probability-of-the-fo"
+        ]
+    },
+    {
+        "question": "What is the best way to deal with fraudulent messages or calls?",
+        "urls": [
+            "https://consumer.ftc.gov/features/how-stop-unwanted-calls",
+            "https://consumer.ftc.gov/articles/how-recognize-and-avoid-phishing-scams",
+            "https://www.experian.com/blogs/ask-experian/what-to-do-when-scammer-calls/",
+            "https://www.pcmag.com/how-to/block-robocalls-and-spam-calls"
+        ]
+    },
+    {
+        "question": "If a group of 20 people eat 5 pizzas, how many pizzas are needed for a group of 50 people?",
+        "urls": [
+            "https://goodcalculators.com/pizza-calculator/",
+            "https://www.omnicalculator.com/food/pizza-party",
+            "https://www.inchcalculator.com/pizza-calculator/",
+            "https://calculate-this.com/how-many-pizzas-buy-calculator"
+        ]
+    },
+    {
+        "question": "Father is aged three times more than his son Ronit. After 8 years, he would be two and a half times of Ronit's age. After further 8 years, how many times would he be of Ronit's age?",
+        "urls": [
+            "https://byjus.com/question-answer/father-is-aged-three-times-more-than-his-son-ronit-after-8-years-he-would/",
+            "https://www.vedantu.com/question-answer/father-is-aged-three-times-more-than-his-son-class-8-maths-cbse-5fba623388333c52ca494aaf",
+            "https://www.chegg.com/homework-help/questions-and-answers/1-father-aged-three-times-son-ronit-8-years-would-two-half-times-ronit-s-age-8-years-many--q4154713",
+            "https://www.indiabix.com/aptitude/problems-on-ages/"
+        ]
+    },
+    {
+        "question": "What is the formula for calculating compound interest?",
+        "urls": [
+            "https://www.thecalculatorsite.com/finance/calculators/compound-interest-formula",
+            "https://www.calculatorsoup.com/calculators/financial/compound-interest-calculator.php",
+            "https://www.investopedia.com/terms/c/compoundinterest.asp",
+            "https://byjus.com/maths/compound-interest/"
+        ]
+    },
+    {
+        "question": "Rahul at present is 25 years younger to his mother. Rahul's brother, who was born in 1964, is 35 years younger to his mother. In which year was Rahul born ?",
+        "urls": [
+            "https://www.toppr.com/ask/question/in-which-year-was-rahul-born-i-rahul-at-present-is-25-years-younger-to/",
+            "https://byjus.com/question-answer/in-which-year-was-rahul-born-according-to-the-given-statements-1-rahul-at-present/",
+            "https://studymild.com/verbal-reasoning/data-sufficiency/",
+            "https://www.indiabix.com/verbal-reasoning/data-sufficiency/discussion-1316"
+        ]
+    },
+    {
+        "question": "Two students appeared at an examination. One of them secured 9 marks more than the other and his marks was 56% of the sum of their marks. What are the marks obtained by them?",
+        "urls": [
+            "https://www.toppr.com/ask/question/two-students-appeared-at-an-examination-one-of-them-secured-9-marks-more-than-the/",
+            "https://testbook.com/question-answer/two-students-appeared-at-an-examination-one-of-th--601522d0b0945e0901cac397",
+            "https://www.vedantu.com/question-answer/two-students-appeared-at-an-examination-one-of-class-12-maths-cbse-5f70725bd9fada5ff12c2f40",
+            "https://www.indiabix.com/aptitude/percentage/discussion-321"
+        ]
+    },
+    {
+        "question": "The attainment of individual and organisational goals is mutually interdependent and linked by a common denominator - employee work motivation. Organisational members are motivated to satisfy their personal goals, and they contribute their efforts to the attainment of organisational objectives as means of achieving these personal goals. The passage best supports the statement that motivation - encourages an individual to give priority to personal goals over organisational goals. is crucial for the survival of an individual and organisation. is the product of an individual's physical and mental energy. is the external force which induces an individual to contribute his efforts. makes organisation and society inseparable.",
+        "urls": [
+            "https://www.examveda.com/the-attainment-of-individual-and-organisational-goals-is-mutually-interdependent-and-linked-by-a-common-denominator-employee-work-motivation-organisational-members-are-motivated-to-satisfy-their-personal-goals-and-20094/",
+            "https://www.indiabix.com/logical-reasoning/theme-detection/",
+            "https://www.chegg.com/homework-help/questions-and-answers/1-attainment-individual-organisational-goals-mutually-interdependent-linked-common-denomin-q117266278",
+            "https://www.examveda.com/competitive-reasoning/practice-mcq-question-on-theme-detection/"
+        ]
+    },
+    {
+        "question": "What percentage of numbers from 1 to 70 have 1 or 9 in the unit's digit?",
+        "urls": [
+            "https://byjus.com/question-answer/what-percentage-of-numbers-from-1-to-70-have-1-or-9-in-the-unit-s-digit/",
+            "https://www.toppr.com/ask/question/what-percentage-of-numbers-from-1-to-70-have-1-or-9-in-the-units/",
+            "https://www.examveda.com/what-percentage-of-numbers-from-1-to-70-have-1-or-9-in-the-units-digit-18424/",
+            "https://www.vedantu.com/question-answer/percentage-of-numbers-from-1-to-70-have-1-or-9-class-9-maths-cbse-5f517009c9164258724fbbd1"
+        ]
+    },
+    {
+        "question": "A family consists of 6 members P, Q , R, X, Y, Z. Q is the son of R but R is not mother of Q. P and R are married couple. Y is the brother of R, X is the daughter of P. Z is the brother of P. How many female members are there in the family?",
+        "urls": [
+            "https://www.toppr.com/ask/question/a-family-consists-of-six-members-p-q-r-x-y-and-z-q-is-6/",
+            "https://www.toppr.com/ask/question/a-family-consists-of-six-members-p-q-r-x-y-and-z-q-is/",
+            "https://www.toppr.com/ask/en-us/question/read-the-following-information-carefully-and-answer-the-question-given-below-it-a-family-consists/",
+            "https://www.toppr.com/ask/question/a-familyconsists-of-six-members-p-q-r-x-y-and-z-q-is-the-3/",
+            "https://testbook.com/question-answer/a-family-consists-of-six-members-p-q-r-x-y-and--62ec0593eddbecf1d2ea267a"
+        ]
+    },
+    {
+        "question": "P X Q means \"P is wife of Q\" P \u00f7 Q means \"P is father of Q P + Q means \"P is son of Q\" P - Q means \"P is sister of Q\" In H + I \u00f7 L, how is L related to H?",
+        "urls": [
+            "https://byjus.com/question-answer/study-the-following-carefully-to-answer-these-questions-p-times-q-means-p-is-the-1/",
+            "https://www.toppr.com/ask/question/ifp-q-means-p-is-the-brother-of-qp-times-q-means-p-is/",
+            "https://prepp.in/question/p-q-means-p-is-the-wife-of-q-p-q-means-p-is-the-f-628b24a8de8ad21111a4ef0b",
+            "https://testbook.com/question-answer/p-q-means-p-is-the-wife-of-q-p--604f1779617937014aad6e53",
+            "https://testbook.com/question-answer/p-q-means-p-is-the-wife-of-q--603ce91289efe14c46db7fcd"
+        ]
+    },
+    {
+        "question": "Why is 1 not considered to be prime?",
+        "urls": [
+            "https://blogs.scientificamerican.com/roots-of-unity/why-isnt-1-a-prime-number/",
+            "https://byjus.com/maths/is-1-a-prime-number/",
+            "https://math.stackexchange.com/questions/120/why-is-1-not-a-prime-number",
+            "https://www.wgtn.ac.nz/science/ask-a-researcher/is-1-a-prime-number"
+        ]
+    },
+    {
+        "question": "What was the highest amount of daily toll collection through the FASTag system so far?",
+        "urls": [
+            "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1921359",
+            "https://factly.in/data-fastag-collections-cross-rs-50000-crores-in-2022-23-and-even-in-2023-24/",
+            "https://www.indiatoday.in/india/story/nhai-fastag-daily-toll-collection-hits-record-high-crosses-193-crore-mark-2367858-2023-05-03",
+            "https://www.ibef.org/news/daily-toll-collection-through-fastag-reached-a-record-high-of-over-us-23-6-million-rs-193-crore"
+        ]
+    },
+    {
+        "question": "What is the turnover limit for businesses to be subject to new GST regulations?",
+        "urls": [
+            "https://instafiling.com/turnover-limit-for-gst-registration-complete-guide/",
+            "https://cbic-gst.gov.in/pdf/Circular-No-160-14-2021-GST.pdf",
+            "https://www.indiatoday.in/business/story/new-gst-invoicing-rule-for-companies-100-crore-turnover-from-may-1-details-here-2366924-2023-05-01",
+            "https://mybillbook.in/s/gst-goods-and-services-tax/gst-turnover-limit/",
+            "https://www.indiafilings.com/learn/what-is-the-minimum-turnover-for-gst/"
+        ]
+    },
+    {
+        "question": "Fate smiles ...... those who untiringly grapple with stark realities of life.",
+        "urls": [
+            "https://www.vedantu.com/question-answer/fate-smiles-those-who-untiringly-grapple-with-class-6-english-cbse-5fe1e031ef7b9d47fdd787af",
+            "https://www.chegg.com/homework-help/questions-and-answers/fate-smiles-untiringly-grapple-stark-realities-life8-round-q66722455",
+            "https://www.toppr.com/ask/question/fill-in-the-blank-with-an-appropriate-wordfate-smiles-those-who-untiringly-grapple-with/",
+            "https://www.examveda.com/fate-smiles-those-who-untiringly-grapple-with-stark-realities-of-life-21675/"
+        ]
+    },
+    {
+        "question": "The workers are hell bent at getting what is due to them. Improve the sentence.",
+        "urls": [
+            "https://www.toppr.com/ask/question/correct-the-error-in-the-underlined-part-of-the-sentencethe-workers-are-hell-bent-at/",
+            "https://testbook.com/question-answer/in-the-question-below-a-part-of-the-sentence-has--5ee323087d23710d14b65210",
+            "https://www.examveda.com/the-workers-are-hell-bent-at-getting-what-is-due-to-them-21153/",
+            "https://www.grammarly.com/sentence-checker"
+        ]
+    },
+    {
+        "question": "Introducing a boy, a girl said, \"He is the son of the daughter of the father of my uncle.\" How is the boy related to the girl?",
+        "urls": [
+            "https://www.toppr.com/ask/question/introducing-a-boy-a-girl-said-he-is-the-son-of-the-daughter-of-the/",
+            "https://www.toppr.com/ask/question/introducing-a-boy-a-girl-said-he-is-the-son/",
+            "https://byjus.com/question-answer/a-girl-introduced-a-boy-as-the-son-of-the-daughter-of-the-father-of/",
+            "https://testbook.com/question-answer/introducing-a-boy-a-girl-said-he-is-the-so--60587d609bfcc684e88aa221"
+        ]
+    },
+    {
+        "question": "M is the father of N who is the son of V. In order to know the relation of M to P, which of the statement/statements is/are necessary? P is the brother of V. The daughter of N is the granddaughter of V.",
+        "urls": [
+            "https://www.toppr.com/ask/question/m-is-the-father-of-n-who-is-the-son-of-v-in-order-to/",
+            "https://www.toppr.com/ask/en-ca/question/m-is-the-father-of-n-who-is-the-son-of-v-in-order-to/",
+            "https://www.examveda.com/m-is-the-father-of-n-who-is-the-son-of-v-in-order-to-know-the-relation-of-m-to-p-which-of-the-statementstatements-isare-necessary-1-p-23177/",
+            "https://edurev.in/question/1405398/M-is-the-father-of-N-who-is-the-son-of-V--In-order"
+        ]
+    }
+]
