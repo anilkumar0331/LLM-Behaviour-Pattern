@@ -1,0 +1,27 @@
+Educational and Research Institutions
+harvard.edu (Harvard University)
+stanford.edu (Stanford University)
+gatech.edu (Georgia Institute of Technology)
+uc.edu (University of Cincinnati)
+cam.ac.uk (University of Cambridge)
+Government and Official Organizations
+nasa.gov (National Aeronautics and Space Administration)
+noaa.gov (National Oceanic and Atmospheric Administration)
+fda.gov (U.S. Food and Drug Administration)
+gov.uk (UK Government)
+europa.eu (European Union)
+Healthcare Institutions
+mayoclinic.org (Mayo Clinic)
+hopkinsmedicine.org (Johns Hopkins Medicine)
+nih.gov (National Institutes of Health)
+Scientific and Medical Research
+nature.com (Nature Publishing Group)
+sciencemag.org (Science Magazine)
+nejm.org (New England Journal of Medicine)
+Reputable Encyclopedias and Reference Materials
+britannica.com (Encyclopædia Britannica)
+wikipedia.org (Wikipedia, with the usual caveats about double-checking information)
+News Organizations
+bbc.com (BBC)
+nytimes.com (The New York Times)
+washingtonpost.com (The Washington Post)
