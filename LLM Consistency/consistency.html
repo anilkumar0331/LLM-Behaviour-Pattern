@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        strong {
+            margin-right: 4px;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="hallucinations-list"></div>
+
+    <script>
+        async function loadAndRenderHallucinations() {
+            try {
+                const response = await fetch('wiki_bio_gpt3_with_similariy_scores.json');
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                const hallucinations = await response.json();
+
+                const container = document.getElementById('hallucinations-list');
+                container.innerHTML = ''; // Clear existing content
+
+                hallucinations.forEach((item, index) => {
+                    const element = document.createElement('div');
+                    element.innerHTML = `
+                        <h3>Passage ${index + 1}:</h3>
+                        <p><strong>Sample 1:</strong>${item.gpt3_text_samples[0]}</p>
+                        <p><strong>Sample 2:</strong>${item.gpt3_text_samples[1]}</p>
+                        <p><strong>Sample 3:</strong>${item.gpt3_text_samples[2]}</p>
+                        <p><strong>Average Similarity Score:</strong>${item.average_similarity_score}</p>
+                        <hr>`;
+                    container.appendChild(element);
+                });
+            } catch (error) {
+                console.error('Error loading or parsing the JSON file:', error);
+            }
+        }
+
+        // Call the function when the page loads
+        loadAndRenderHallucinations();
+    </script>
+</body>
+
+</html>
