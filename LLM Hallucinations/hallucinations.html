@@ -23,7 +23,7 @@
     <script>
         async function loadAndRenderHallucinations() {
             try {
-                const response = await fetch('hallucinations_filtered.json');
+                const response = await fetch('./Hallucination_Patterns/no_hallucinations.json');
                 if (!response.ok) {
                     throw new Error(`HTTP error! status: ${response.status}`);
                 }
